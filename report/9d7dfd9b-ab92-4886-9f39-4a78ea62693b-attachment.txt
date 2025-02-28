@@ -1,5 +1,0 @@
-[32mINFO    [0m log:conftest.py:17 开始执行用例
-[32mINFO    [0m log:requests.py:12 接口地址>>>>>:http://admin.5istudy.online/login/
-[32mINFO    [0m log:requests.py:18 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
-[32mINFO    [0m log:request_untils.py:9 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDA5MjQxNTIsImVtYWlsIjpudWxsfQ.eHIC8e03YP74WMNRQfTZnNm4JkkjDSX2mNuAZamIfPM"}
-[32mINFO    [0m log:conftest.py:19 执行完毕~

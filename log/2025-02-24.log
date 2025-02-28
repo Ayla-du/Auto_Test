@@ -1,2 +1,0 @@
-[2025-02-24 00:02:10,590][mysql_until.py 30][INFO]: 执行sql：select code from users_verifycode where mobile = '15000000000' order by id desc limit 1;
-[2025-02-24 00:02:10,627][mysql_until.py 34][INFO]: sql执行结果：{'code': '1394'}
