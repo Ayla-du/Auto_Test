@@ -1,0 +1,5 @@
+INFO     log:conftest.py:15 开始执行用例
+INFO     log:requests.py:12 接口地址>>>>>:http://admin.5istudy.online/userfavs/
+INFO     log:requests.py:18 接口参数>>>>>:{'goods': 7}
+INFO     log:request_untils.py:9 接口返回内容>>>:{"goods": 7, "id": 4293}
+INFO     log:conftest.py:17 执行完毕~

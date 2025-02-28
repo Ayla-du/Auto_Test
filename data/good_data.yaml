@@ -1,0 +1,12 @@
+good:
+  -
+    goods: 28
+    nums: 1
+
+favs_goods:
+  -
+    goods: 7
+
+goods_detail:
+  -
+    goods: 55

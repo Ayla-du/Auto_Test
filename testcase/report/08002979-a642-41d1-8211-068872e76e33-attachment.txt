@@ -1,0 +1,5 @@
+[2025-02-19 22:48:44,392][conftest.py 9][INFO]: 开始执行用例
+[2025-02-19 22:48:44,393][requests.py 12][INFO]: 接口地址>>>>>:http://meikefresh.5istudy.online/login/
+[2025-02-19 22:48:44,393][requests.py 18][INFO]: 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
+[2025-02-19 22:48:44,505][request_untils.py 11][INFO]: 状态码非200或者201,请检查
+[2025-02-19 22:48:44,602][conftest.py 11][INFO]: 执行完毕~

@@ -1,0 +1,5 @@
+[2025-02-19 22:52:05,321][conftest.py 9][INFO]: 开始执行用例
+[2025-02-19 22:52:05,325][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/login/
+[2025-02-19 22:52:05,325][requests.py 18][INFO]: 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
+[2025-02-19 22:52:05,562][request_untils.py 9][INFO]: 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDA1ODE1MjUsImVtYWlsIjpudWxsfQ.8MGt1ZRzGMAzRa4V00zYjiNZngn9smGSebXFeB1p4kk"}
+[2025-02-19 22:52:05,565][conftest.py 11][INFO]: 执行完毕~

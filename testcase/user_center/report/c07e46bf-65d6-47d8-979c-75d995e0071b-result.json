@@ -1,0 +1,1 @@
+{"name": "test_login[data0]", "status": "passed", "parameters": [{"name": "data", "value": "{'username': 15819749552, 'password': 123456}"}], "start": 1740033390943, "stop": 1740033404584, "uuid": "e36af5d5-32bf-4bb4-9289-c0e5d12bb175", "testCaseId": "3360aa37ec03ba9d143761b9c632b454", "fullName": "testcase.user_scnter.login.Test_login#test_login"}

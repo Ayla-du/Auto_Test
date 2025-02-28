@@ -1,0 +1,8 @@
+[2025-02-20 14:12:56,532][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/login/
+[2025-02-20 14:12:56,532][requests.py 18][INFO]: 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
+[2025-02-20 14:12:56,717][request_untils.py 9][INFO]: 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDA2MzY3NzYsImVtYWlsIjpudWxsfQ.UktqaPgRhMxiURb508gLuNOSsCQpLSIJrul8Oq2c_sk"}
+[2025-02-20 14:12:56,718][conftest.py 14][INFO]: 开始执行用例
+[2025-02-20 14:12:56,720][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/login/
+[2025-02-20 14:12:56,720][requests.py 18][INFO]: 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
+[2025-02-20 14:12:56,891][request_untils.py 9][INFO]: 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDA2MzY3NzYsImVtYWlsIjpudWxsfQ.UktqaPgRhMxiURb508gLuNOSsCQpLSIJrul8Oq2c_sk"}
+[2025-02-20 14:12:56,893][conftest.py 16][INFO]: 执行完毕~

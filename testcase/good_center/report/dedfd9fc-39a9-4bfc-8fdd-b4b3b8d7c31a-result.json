@@ -1,0 +1,1 @@
+{"name": "test_login[data0]", "status": "passed", "parameters": [{"name": "data", "value": "{'goods': 28, 'nums': 1}"}], "start": 1740031947709, "stop": 1740032301081, "uuid": "b0e59ce7-9b86-4b30-b631-c76aea24aa5e", "testCaseId": "13b6d8377caa1ba8c96a6b11db117239", "fullName": "testcase.good_scnter.shopcarts.Test_shopcarts#test_login"}

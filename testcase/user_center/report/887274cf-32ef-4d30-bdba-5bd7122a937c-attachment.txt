@@ -1,0 +1,8 @@
+INFO     log:requests.py:12 接口地址>>>>>:http://admin.5istudy.online/login/
+INFO     log:requests.py:18 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
+INFO     log:request_untils.py:9 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDA2MzgwNTcsImVtYWlsIjpudWxsfQ.NSGUSHrMKAM590g8wg1Mh_JXPP4B4zVgysmNMPrp6zQ"}
+INFO     log:conftest.py:14 开始执行用例
+INFO     log:requests.py:12 接口地址>>>>>:http://admin.5istudy.online/login/
+INFO     log:requests.py:18 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
+INFO     log:request_untils.py:9 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDA2MzgwNTcsImVtYWlsIjpudWxsfQ.NSGUSHrMKAM590g8wg1Mh_JXPP4B4zVgysmNMPrp6zQ"}
+INFO     log:conftest.py:16 执行完毕~

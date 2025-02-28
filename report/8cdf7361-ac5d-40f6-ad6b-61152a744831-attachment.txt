@@ -1,0 +1,8 @@
+[32mINFO    [0m log:requests.py:12 接口地址>>>>>:http://admin.5istudy.online/login/
+[32mINFO    [0m log:requests.py:18 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
+[32mINFO    [0m log:request_untils.py:9 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDA5MjQxNTEsImVtYWlsIjpudWxsfQ.KmCyIJomMmPXmRma-RcZIG7wKYEYgebMjVrOw6Eh17E"}
+[32mINFO    [0m log:conftest.py:17 开始执行用例
+[32mINFO    [0m log:requests.py:12 接口地址>>>>>:http://admin.5istudy.online/goods/55/
+[32mINFO    [0m log:requests.py:14 接口参数>>>>>:{'goods': 55}
+[32mINFO    [0m log:request_untils.py:9 接口返回内容>>>:{"id": 55, "category": {"id": 11, "sub_cat": [], "add_time": "2019-11-19 13:21:56", "name": "蟹/贝", "code": "xb", "desc": "", "category_type": 3, "is_tab": false, "parent_category": 7}, "images": [{"image": "http://admin.5istudy.online/media/%E5%B8%9D%E7%8E%8B%E8%9F%B92.jpg"}], "add_time": "2021-06-08 17:12:00", "goods_sn": "6968", "name": "帝王蟹", "click_num": 777, "sold_num": 590, "fav_num": 999, "goods_num": 57, "market_price": 1250.0, "shop_price": 999.0, "goods_brief": "鲜甜美味帝王蟹，鲜活现货！快来抢购吧！", "goods_desc": "帝王蟹又名石蟹或岩蟹，即石蟹科的甲壳类，不是真正的螃蟹，它们主要分布在寒冷的海域。因其体型巨大而得名，素有“蟹中之王”的美誉。", "ship_free": true, "goods_front_image": "http://admin.5istudy.online/media/goods/images/%E5%B8%9D%E7%8E%8B%E8%9F%B9.jpg", "is_new": true, "is_hot": true}
+[32mINFO    [0m log:conftest.py:19 执行完毕~

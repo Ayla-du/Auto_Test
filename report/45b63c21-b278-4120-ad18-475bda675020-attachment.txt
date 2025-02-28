@@ -1,0 +1,5 @@
+[32mINFO    [0m log:conftest.py:17 开始执行用例
+[32mINFO    [0m log:requests.py:12 接口地址>>>>>:http://admin.5istudy.online/shopcarts/
+[32mINFO    [0m log:requests.py:18 接口参数>>>>>:{'goods': 28, 'nums': 1}
+[32mINFO    [0m log:request_untils.py:9 接口返回内容>>>:{"nums": 7, "goods": 28}
+[32mINFO    [0m log:conftest.py:19 执行完毕~
