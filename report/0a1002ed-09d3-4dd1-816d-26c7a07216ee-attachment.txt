@@ -1,5 +1,0 @@
-[32mINFO    [0m log:conftest.py:17 开始执行用例
-[32mINFO    [0m log:requests.py:12 接口地址>>>>>:http://admin.5istudy.online/userfavs/7/
-[32mINFO    [0m log:requests.py:22 接口参数>>>>>:None
-[32mINFO    [0m log:request_untils.py:12 状态码为204,无返回结果
-[32mINFO    [0m log:conftest.py:19 执行完毕~
