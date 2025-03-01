@@ -1,1 +1,0 @@
-{"name": "test_goods_detail[data0]", "status": "skipped", "parameters": [{"name": "data", "value": "{'goods': 55}"}], "start": 1740317234498, "stop": 1740317234498, "uuid": "3f782d7a-f9f4-487c-bf7c-26d8ed2bbb15", "testCaseId": "c92786530ce6edd3fca3daa29426062d", "fullName": "testcase.good_center.test_goods_detail.Test_goods_detail#test_goods_detail"}
