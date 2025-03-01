@@ -1,2 +1,0 @@
-INFO     log:conftest.py:15 开始执行用例
-INFO     log:conftest.py:17 执行完毕~

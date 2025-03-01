@@ -1,1 +1,0 @@
-{"name": "test_shopcarts[data0]", "status": "skipped", "parameters": [{"name": "data", "value": "{'goods': 28, 'nums': 1}"}], "start": 1740037714188, "stop": 1740037714188, "uuid": "3ea5b3fc-6493-4cd1-8d8b-bb2a14cabde6", "testCaseId": "56f43467ded6518cc2693480726d67a6", "fullName": "testcase.good_scnter.shopcarts.Test_shopcarts#test_shopcarts"}

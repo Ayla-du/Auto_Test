@@ -1,3 +1,0 @@
-INFO     log:requests.py:12 接口地址>>>>>:http://admin.5istudy.online/login/
-INFO     log:requests.py:18 接口参数>>>>>:[{'username': 15819749552, 'password': 123456}]
-INFO     log:request_untils.py:11 状态码非200或者201,请检查

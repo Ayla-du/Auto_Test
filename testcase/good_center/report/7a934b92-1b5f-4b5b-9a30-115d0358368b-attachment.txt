@@ -1,8 +1,0 @@
-[2025-02-20 14:25:57,506][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/login/
-[2025-02-20 14:25:57,506][requests.py 18][INFO]: 接口参数>>>>>:{'goods': 28, 'nums': 1}
-[2025-02-20 14:25:57,600][request_untils.py 11][INFO]: 状态码非200或者201,请检查
-[2025-02-20 14:25:57,602][conftest.py 14][INFO]: 开始执行用例
-[2025-02-20 14:25:57,606][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/shopcarts/
-[2025-02-20 14:25:57,606][requests.py 18][INFO]: 接口参数>>>>>:{'goods': 28, 'nums': 1}
-[2025-02-20 14:25:57,682][request_untils.py 11][INFO]: 状态码非200或者201,请检查
-[2025-02-20 14:25:57,757][conftest.py 16][INFO]: 执行完毕~

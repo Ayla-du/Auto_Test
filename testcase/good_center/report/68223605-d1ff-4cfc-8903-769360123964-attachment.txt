@@ -1,3 +1,0 @@
-[2025-02-20 23:58:21,999][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/login/
-[2025-02-20 23:58:22,000][requests.py 18][INFO]: 接口参数>>>>>:{'goods': 28, 'nums': 1}
-[2025-02-20 23:58:22,097][request_untils.py 11][INFO]: 状态码非200或者201,请检查

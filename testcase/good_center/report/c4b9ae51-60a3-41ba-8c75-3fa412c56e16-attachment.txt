@@ -1,3 +1,0 @@
-[2025-02-20 22:16:44,964][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/login/
-[2025-02-20 22:16:44,964][requests.py 18][INFO]: 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
-[2025-02-20 22:16:45,153][request_untils.py 9][INFO]: 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDA2NjU4MDUsImVtYWlsIjpudWxsfQ.WCwEyh_4zyfP4AbrSB60AbJ9vPmRabKVH-9cEJu6mFE"}

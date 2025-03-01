@@ -1,8 +1,0 @@
-[2025-02-20 23:48:21,163][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/login/
-[2025-02-20 23:48:21,163][requests.py 18][INFO]: 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
-[2025-02-20 23:48:21,342][request_untils.py 9][INFO]: 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDA2NzEzMDMsImVtYWlsIjpudWxsfQ.JbM0ZwQeRWq5gmCzppc1lRcKTfn7si1r4tyZKSa9Rmo"}
-[2025-02-20 23:48:21,343][conftest.py 17][INFO]: 开始执行用例
-[2025-02-20 23:48:21,346][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/shopcarts/
-[2025-02-20 23:48:21,346][requests.py 18][INFO]: 接口参数>>>>>:{'goods': 28, 'nums': 1}
-[2025-02-20 23:48:21,440][request_untils.py 9][INFO]: 接口返回内容>>>:{"nums": 6, "goods": 28}
-[2025-02-20 23:48:21,443][conftest.py 19][INFO]: 执行完毕~
