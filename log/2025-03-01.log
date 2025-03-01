@@ -1,0 +1,23 @@
+[2025-03-01 13:20:41,773][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/login/
+[2025-03-01 13:20:41,774][requests.py 18][INFO]: 接口参数>>>>>:{'username': 15819749552, 'password': 123456}
+[2025-03-01 13:20:42,240][request_untils.py 9][INFO]: 接口返回内容>>>:{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxNjg4OTIsInVzZXJuYW1lIjoiMTU4MTk3NDk1NTIiLCJleHAiOjE3NDE0MTEyNDIsImVtYWlsIjpudWxsfQ.r_KWlRLxEu_2WcbsBmuKez-xvzuObgFGqjqwNBH9qdI"}
+[2025-03-01 13:20:42,241][conftest.py 15][INFO]: 开始执行用例
+[2025-03-01 13:20:42,244][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/goods/55/
+[2025-03-01 13:20:42,244][requests.py 14][INFO]: 接口参数>>>>>:{'goods': 55}
+[2025-03-01 13:20:42,343][request_untils.py 9][INFO]: 接口返回内容>>>:{"id": 55, "category": {"id": 11, "sub_cat": [], "add_time": "2019-11-19 13:21:56", "name": "蟹/贝", "code": "xb", "desc": "", "category_type": 3, "is_tab": false, "parent_category": 7}, "images": [{"image": "http://admin.5istudy.online/media/%E5%B8%9D%E7%8E%8B%E8%9F%B92.jpg"}], "add_time": "2021-06-08 17:12:00", "goods_sn": "6968", "name": "帝王蟹", "click_num": 777, "sold_num": 590, "fav_num": 999, "goods_num": 57, "market_price": 1250.0, "shop_price": 999.0, "goods_brief": "鲜甜美味帝王蟹，鲜活现货！快来抢购吧！", "goods_desc": "帝王蟹又名石蟹或岩蟹，即石蟹科的甲壳类，不是真正的螃蟹，它们主要分布在寒冷的海域。因其体型巨大而得名，素有“蟹中之王”的美誉。", "ship_free": true, "goods_front_image": "http://admin.5istudy.online/media/goods/images/%E5%B8%9D%E7%8E%8B%E8%9F%B9.jpg", "is_new": true, "is_hot": true}
+[2025-03-01 13:20:42,345][conftest.py 17][INFO]: 执行完毕~
+[2025-03-01 13:20:42,350][conftest.py 15][INFO]: 开始执行用例
+[2025-03-01 13:20:42,351][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/shopcarts/
+[2025-03-01 13:20:42,351][requests.py 18][INFO]: 接口参数>>>>>:{'goods': 28, 'nums': 1}
+[2025-03-01 13:20:42,454][request_untils.py 9][INFO]: 接口返回内容>>>:{"nums": 1, "goods": 28}
+[2025-03-01 13:20:42,455][conftest.py 17][INFO]: 执行完毕~
+[2025-03-01 13:20:42,460][conftest.py 15][INFO]: 开始执行用例
+[2025-03-01 13:20:42,461][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/userfavs/
+[2025-03-01 13:20:42,461][requests.py 18][INFO]: 接口参数>>>>>:{'goods': 7}
+[2025-03-01 13:20:42,556][request_untils.py 9][INFO]: 接口返回内容>>>:{"goods": 7, "id": 4294}
+[2025-03-01 13:20:42,558][conftest.py 17][INFO]: 执行完毕~
+[2025-03-01 13:20:42,562][conftest.py 15][INFO]: 开始执行用例
+[2025-03-01 13:20:42,563][requests.py 12][INFO]: 接口地址>>>>>:http://admin.5istudy.online/userfavs/7/
+[2025-03-01 13:20:42,563][requests.py 22][INFO]: 接口参数>>>>>:None
+[2025-03-01 13:20:42,663][request_untils.py 12][INFO]: 状态码为204,无返回结果
+[2025-03-01 13:20:42,664][conftest.py 17][INFO]: 执行完毕~
